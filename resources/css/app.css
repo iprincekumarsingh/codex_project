@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&family=Poppins&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Path: resources\js\app.js */
+@layer base
+{
+    .font-poppins
+    {
+        font-family: 'Poppins', sans-serif;
+    }
+    .logo{
+        font-family: 'Mochiy Pop P One', sans-serif;
+
+    }
+}
