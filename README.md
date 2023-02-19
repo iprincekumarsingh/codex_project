@@ -8,4 +8,4 @@ password = password
 
 ## live project link 
 
-## ['https://prince-codex.codewprince.tech']
+## ['https://princecodex.codewprince.tech']
